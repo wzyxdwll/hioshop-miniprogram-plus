@@ -1,3 +1,6 @@
+### 海风小店plus（原海风小店增强版）
+原海风小店作者似乎不维护了，fork出来进行功能增强和BUG修复
+
 ### 海风小店，开源商城（微信小程序端）
 
 + 基于开源项目NideShop重建，精简了一些功能的同时完善了一些功能，并重新设计了UI
@@ -9,15 +12,12 @@
 后台管理：https://www.bilibili.com/video/av89568075
 
 #### 本项目需要配合  
-服务端： https://github.com/iamdarcy/hioshop-server  
-管理后台：https://github.com/iamdarcy/hioshop-admin  
+服务端： https://github.com/wzyxdwll/hioshop-server-plus  
+管理后台：https://github.com/wzyxdwll/hioshop-admin-plus  
 
 线上demo：http://hiolabs.com/demo/#/login  
 用户名：hiolabs  
 密码：hiolabs  
-
-<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet"><img width="1400" src="https://images.gitee.com/uploads/images/2020/1118/090200_075dad37_1794996.jpeg"/></a>
-阿里云主机优惠<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet">立即去看看</a>
 
 ### 项目截图
 
@@ -85,7 +85,6 @@ A 增加发货时的订阅消息
 后台管理：https://github.com/iamdarcy/hioshop-admin  
 服务端： https://github.com/iamdarcy/hioshop-server  
 
-- 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信、QQ群联系我，谢谢您的关注。
-<img width="1200" src="https://images.gitee.com/uploads/images/2020/1118/090924_294734ef_1794996.jpeg"/>
+- 本项目会持续更新和维护，喜欢别忘了 Star
 
 
