@@ -81,9 +81,9 @@ A 增加发货时的订阅消息
 在hiolabs-server的config.js中设置好appid和secret。  
 
 - 项目地址  
-微信小程序：https://github.com/wzyxdwll/hioshop-miniprogram-plus
-后台管理：https://github.com/wzyxdwll/hioshop-admin-plus
-服务端： https://github.com/wzyxdwll/hioshop-server-plus
+微信小程序：https://github.com/wzyxdwll/hioshop-miniprogram-plus  
+后台管理：https://github.com/wzyxdwll/hioshop-admin-plus  
+服务端： https://github.com/wzyxdwll/hioshop-server-plus  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star
 
